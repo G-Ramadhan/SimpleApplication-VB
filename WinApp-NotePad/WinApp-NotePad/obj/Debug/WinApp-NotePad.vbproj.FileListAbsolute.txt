@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\bin\Debug\WinApp-NotePad.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\bin\Debug\WinApp-NotePad.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\bin\Debug\WinApp-NotePad.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\bin\Debug\WinApp-NotePad.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\obj\Debug\WinApp_NotePad.NotePad.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\obj\Debug\WinApp_NotePad.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\obj\Debug\WinApp-NotePad.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\obj\Debug\WinApp-NotePad.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\obj\Debug\WinApp-NotePad.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-NotePad\WinApp-NotePad\obj\Debug\WinApp-NotePad.pdb
