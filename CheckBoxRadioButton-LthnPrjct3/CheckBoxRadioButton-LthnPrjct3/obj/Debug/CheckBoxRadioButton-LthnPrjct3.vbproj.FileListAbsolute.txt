@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\bin\Debug\CheckBoxRadioButton-LthnPrjct3.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\bin\Debug\CheckBoxRadioButton-LthnPrjct3.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\bin\Debug\CheckBoxRadioButton-LthnPrjct3.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\bin\Debug\CheckBoxRadioButton-LthnPrjct3.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\obj\Debug\CheckBoxRadioButton_LthnPrjct3.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\obj\Debug\CheckBoxRadioButton_LthnPrjct3.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\obj\Debug\CheckBoxRadioButton-LthnPrjct3.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\obj\Debug\CheckBoxRadioButton-LthnPrjct3.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\obj\Debug\CheckBoxRadioButton-LthnPrjct3.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\CheckBoxRadioButton-LthnPrjct3\CheckBoxRadioButton-LthnPrjct3\obj\Debug\CheckBoxRadioButton-LthnPrjct3.pdb

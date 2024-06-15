@@ -1,0 +1,9 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\bin\Debug\ConsoleApplication1-LthnPrjct2.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\bin\Debug\ConsoleApplication1-LthnPrjct2.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\bin\Debug\ConsoleApplication1-LthnPrjct2.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\bin\Debug\ConsoleApplication1-LthnPrjct2.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\obj\Debug\ConsoleApplication1_LthnPrjct2.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\obj\Debug\ConsoleApplication1-LthnPrjct2.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\obj\Debug\ConsoleApplication1-LthnPrjct2.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\obj\Debug\ConsoleApplication1-LthnPrjct2.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\ConsoleApplication1-LthnPrjct2\ConsoleApplication1-LthnPrjct2\obj\Debug\ConsoleApplication1-LthnPrjct2.pdb

@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\bin\Debug\PROGAMEHITUNG.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\bin\Debug\PROGAMEHITUNG.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\bin\Debug\PROGAMEHITUNG.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\PROGAMEHITUNG.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\PROGAMEHITUNG.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\PROGAMEHITUNG.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\PROGAMEHITUNG.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\PROGAMEHITUNG\PROGAMEHITUNG\obj\x86\Debug\PROGAMEHITUNG.vbprojResolveAssemblyReference.cache
