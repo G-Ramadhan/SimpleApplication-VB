@@ -1,0 +1,11 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\bin\Debug\WinApp-RunningText.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\bin\Debug\WinApp-RunningText.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\bin\Debug\WinApp-RunningText.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\bin\Debug\WinApp-RunningText.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp_RunningText.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp_RunningText.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp-RunningText.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp-RunningText.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp-RunningText.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp-RunningText.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-RunningText\WinApp-RunningText\obj\Debug\WinApp-RunningText.vbprojResolveAssemblyReference.cache
